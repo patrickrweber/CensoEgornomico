@@ -1,0 +1,6 @@
+C:\Users\patri\source\repos\CensoErgonomia\SlnCensoErgonomia\src\CensoErgonomia.Classes\bin\Debug\CensoErgonomia.Classes.dll
+C:\Users\patri\source\repos\CensoErgonomia\SlnCensoErgonomia\src\CensoErgonomia.Classes\bin\Debug\CensoErgonomia.Classes.pdb
+C:\Users\patri\source\repos\CensoErgonomia\SlnCensoErgonomia\src\CensoErgonomia.Classes\obj\Debug\CensoErgonomia.Classes.csproj.AssemblyReference.cache
+C:\Users\patri\source\repos\CensoErgonomia\SlnCensoErgonomia\src\CensoErgonomia.Classes\obj\Debug\CensoErgonomia.Classes.csproj.CoreCompileInputs.cache
+C:\Users\patri\source\repos\CensoErgonomia\SlnCensoErgonomia\src\CensoErgonomia.Classes\obj\Debug\CensoErgonomia.Classes.dll
+C:\Users\patri\source\repos\CensoErgonomia\SlnCensoErgonomia\src\CensoErgonomia.Classes\obj\Debug\CensoErgonomia.Classes.pdb

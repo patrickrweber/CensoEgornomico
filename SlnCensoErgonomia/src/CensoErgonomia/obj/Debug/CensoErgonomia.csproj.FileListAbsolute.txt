@@ -1,0 +1,15 @@
+C:\Users\patri\source\repos\CensoErgonomia\SlnCensoErgonomia\src\CensoErgonomia\bin\Debug\CensoErgonomia.exe.config
+C:\Users\patri\source\repos\CensoErgonomia\SlnCensoErgonomia\src\CensoErgonomia\bin\Debug\CensoErgonomia.exe
+C:\Users\patri\source\repos\CensoErgonomia\SlnCensoErgonomia\src\CensoErgonomia\bin\Debug\CensoErgonomia.pdb
+C:\Users\patri\source\repos\CensoErgonomia\SlnCensoErgonomia\src\CensoErgonomia\obj\Debug\CensoErgonomia.csproj.AssemblyReference.cache
+C:\Users\patri\source\repos\CensoErgonomia\SlnCensoErgonomia\src\CensoErgonomia\obj\Debug\CensoErgonomia.CadColaborador.resources
+C:\Users\patri\source\repos\CensoErgonomia\SlnCensoErgonomia\src\CensoErgonomia\obj\Debug\CensoErgonomia.MenuInicial.resources
+C:\Users\patri\source\repos\CensoErgonomia\SlnCensoErgonomia\src\CensoErgonomia\obj\Debug\CensoErgonomia.Properties.Resources.resources
+C:\Users\patri\source\repos\CensoErgonomia\SlnCensoErgonomia\src\CensoErgonomia\obj\Debug\CensoErgonomia.csproj.GenerateResource.cache
+C:\Users\patri\source\repos\CensoErgonomia\SlnCensoErgonomia\src\CensoErgonomia\obj\Debug\CensoErgonomia.csproj.CoreCompileInputs.cache
+C:\Users\patri\source\repos\CensoErgonomia\SlnCensoErgonomia\src\CensoErgonomia\obj\Debug\CensoErgonomia.exe
+C:\Users\patri\source\repos\CensoErgonomia\SlnCensoErgonomia\src\CensoErgonomia\obj\Debug\CensoErgonomia.pdb
+C:\Users\patri\source\repos\CensoErgonomia\SlnCensoErgonomia\src\CensoErgonomia\bin\Debug\CensoErgonomia.Classes.dll
+C:\Users\patri\source\repos\CensoErgonomia\SlnCensoErgonomia\src\CensoErgonomia\bin\Debug\CensoErgonomia.Classes.pdb
+C:\Users\patri\source\repos\CensoErgonomia\SlnCensoErgonomia\src\CensoErgonomia\obj\Debug\CensoErgonomia.csproj.CopyComplete
+C:\Users\patri\source\repos\CensoErgonomia\SlnCensoErgonomia\src\CensoErgonomia\obj\Debug\CensoErgonomia.Habitos.resources
